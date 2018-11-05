@@ -1,0 +1,21 @@
+movie_genres = [
+    ["Action", '28', 'movie_genres'],
+    ["Adventure", '12', 'movie_genres'],
+    ["Animation", '16', 'movie_genres'],
+    ["Comedy", '35', 'movie_genres'],
+    ["Crime", '80', 'movie_genres'],
+    ["Documentary", '99', 'movie_genres'],
+    ["Drama", '18', 'movie_genres'],
+    ["Family", '10751', 'movie_genres'],
+    ["Fantasy", '14', 'movie_genres'],
+    ["History", '36', 'movie_genres'],
+    ["Horror", '27', 'movie_genres'],
+    ["Music", '10402', 'movie_genres'],
+    ["Mystery", '9648', 'movie_genres'],
+    ["Romance", '10749', 'movie_genres'],
+    ["Science Fiction", '878', 'movie_genres'],
+    ["TV Movie", '10770', 'movie_genres'],
+    ["Thriller", '53', 'movie_genres'],
+    ["War", '10752', 'movie_genres'],
+    ["Western", '37', 'movie_genres']
+]

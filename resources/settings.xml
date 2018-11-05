@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+		<category id="general" label="General">
+				<setting id="wallpaper_path" type="folder" label="Set Wallpaper Download Path" default="special://home/userdata/addon_data/plugin.video.tmdbwalls/downloads" visible="True" />
+		</category>
+</settings>
